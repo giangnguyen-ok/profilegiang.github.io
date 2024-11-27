@@ -26,6 +26,4 @@
 <option value="thcn">Tin học công nghệ</option>
 <option value="ttnt">Thể thao nghệ thuật</option>
 </select>
-<br><br>
-<input type="submit" value="Gửi thông tin">
 </form>
