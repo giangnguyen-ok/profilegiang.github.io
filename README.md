@@ -26,4 +26,3 @@
 <option value="thcn">Tin học công nghệ</option>
 <option value="ttnt">Thể thao nghệ thuật</option>
 </select>
-</form>
