@@ -129,8 +129,8 @@
         </div>
         <!-- Phần chữ -->
         <div class="text">
-            <h1>Tiêu đề Màu Xanh</h1>
-            <p>Đây là đoạn văn bản mẫu được căn lề phải, có màu xanh dương. Nội dung này hiển thị ở bên phải trang web.</p>
+            <h1>Đôi lời giới thiệu</h1>
+            <p> Mình là Trường Giang tên ở nhà là Minh. Nhà mình có 5 người ba, mẹ, chị, bà và mình. Mình thích xem bóng đá và có thần tượng là Kevin De Bruyne</p>
         </div>
     </div>
 </body>
