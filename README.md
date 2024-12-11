@@ -124,8 +124,8 @@
     <div class="container">
         <!-- Phần hình ảnh -->
         <div class="image-container">
-            <img src="https://via.placeholder.com/200/FF0000/FFFFFF?text=Hình+1" alt="Hình 1">
-            <img src="https://via.placeholder.com/200/0000FF/FFFFFF?text=Hình+2" alt="Hình 2">
+            <img src="462581841_931505262266397_4767903593408976543_n.jpg" alt="Hình 1">
+            <img src="462562213_1493977571293743_5719909131886436665_n.jpg" alt="Hình 2">
         </div>
         <!-- Phần chữ -->
         <div class="text">
