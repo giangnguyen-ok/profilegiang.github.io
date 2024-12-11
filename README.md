@@ -138,8 +138,6 @@
 
 
 <ul>
-<li> Mình là Trường Giang tên ở nhà là Minh. Nhà mình có 5 người ba, mẹ, chị, bà và mình. Mình thích xem bóng đá và có thần tượng là Kevin De Bruyne</li>
-     <image src="462562213_1493977571293743_5719909131886436665_n.jpg">
 <li> Thông tin cá nhân
     <ol>
     <li>Họ và tên: Nguyễn Trường Giang</li>
