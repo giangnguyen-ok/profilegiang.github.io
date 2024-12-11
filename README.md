@@ -136,65 +136,6 @@
 </body>
 </html>
 
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Căn Lề Hình và Chữ</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f9f9f9; /* Nền trang nhạt */
-        }
-
-        .container {
-            display: flex; /* Sử dụng Flexbox để bố trí hình và chữ */
-            justify-content: space-between; /* Đẩy hình và chữ ra hai bên */
-            align-items: center; /* Căn giữa theo trục dọc */
-            padding: 20px;
-        }
-
-        .image {
-            margin-left: 0; /* Đảm bảo hình căn sát lề trái */
-            max-width: 40%; /* Giới hạn kích thước hình */
-        }
-
-        .text {
-            margin-right: 0; /* Đảm bảo chữ căn sát lề phải */
-            text-align: right; /* Căn lề phải cho nội dung chữ */
-            max-width: 50%; /* Giới hạn chiều rộng phần chữ */
-            color: #007bff; /* Màu chữ xanh dương */
-            line-height: 1.6; /* Tăng khoảng cách giữa các dòng */
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="462581841_931505262266397_4767903593408976543_n.jpg" class="image">
-        <div class="text">
-            <h1>Thông tin cá nhân</h1>
-            <p> <ol>
-    <li>Họ và tên: Nguyễn Trường Giang</li>
-    <li>Trường trung học phổ thông Chuyên Bến Tre</li>
-    <li>Lớp: 12 Lý</li>
-    <li>Giới tính: Nam</li> 
-    <li>Cân nặng: 60kg</li>
-    <li>Chiều cao: 1,6m</li>
-    </ol>
-</li>
-<li> Nguyện vọng tương lai 
-    <ol>
-    <li>Khối thi là Khoa học tự nhiên </li>
-    <li>Nguyện vọng 1 là Đại học Bách Khoa</li>
-    </ol>
-</li>
-.</p>
-        </div>
-    </div>
-</body>
-</html>
-
 
 <ul>
 <li> Thông tin cá nhân
