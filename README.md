@@ -56,6 +56,7 @@
 </body>
 
 
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -123,7 +124,7 @@
     <div class="container">
         <!-- Phần hình ảnh -->
         <div class="image-container">
-            <image src="462562213_1493977571293743_5719909131886436665_n.jpg">
+            <img src="https://via.placeholder.com/200/FF0000/FFFFFF?text=Hình+1" alt="Hình 1">
             <img src="https://via.placeholder.com/200/0000FF/FFFFFF?text=Hình+2" alt="Hình 2">
         </div>
         <!-- Phần chữ -->
@@ -133,6 +134,7 @@
         </div>
     </div>
 </body>
+</html>
 
 
 <ul>
