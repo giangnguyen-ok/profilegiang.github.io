@@ -53,7 +53,7 @@
 </head>
 <body>
   <div class="header">
-    <h1 class="floating-text">NGUYỄN HỒNG NGỌC XIN CHÀO</h1>
+    <h1 class="floating-text">NGUYỄN TRƯỜNG GIANG XIN CHÀO</h1>
   </div>
 </body>
 
