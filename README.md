@@ -4,6 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Trang Web Của Tôi</title>
   <style>
+    h1 {
+            display: none;
+            }
     body {
       background-color: #FAD0C4; /* Màu hồng nhạt */
       font-family: 'Arial', sans-serif;
